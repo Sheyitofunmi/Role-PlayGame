@@ -16,6 +16,10 @@ main {
     align-items: center;
     margin-top: .5rem;
 } 
+#actions {
+    display: flex;
+    justify-content: center;
+}
 
 @media(min-width:550px){
    main {
